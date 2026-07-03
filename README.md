@@ -45,7 +45,7 @@ Know the difference between Gazebo Classic and Gazebo (ex. Ignition Gazebo).
 
 ## Limo
 
-- Read the local LIMO Pro manual: [`Limo Pro Ros2 Foxy user manual(EN).md`](./Limo%20Pro%20Ros2%20Foxy%20user%20manual(EN).md)
+- Read the local LIMO Pro manual: <https://github.com/agilexrobotics/limo_pro_doc/blob/master/Limo%20Pro%20Ros2%20Foxy%20user%20manual(EN).md>
 - Use the course Docker setup: <https://github.com/CentroEPiaggio/docker_humble_limo>
 
 The Limo repo contains:
